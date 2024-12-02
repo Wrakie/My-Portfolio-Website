@@ -54,7 +54,20 @@ Found an issue or want to contribute?
 
 ## 🌟 Highlights
 
-![Home](DEMO/Home.png "Project Screenshot")
+## Home Page
+![Home](DEMO/Home.png "Home page Screenshot")
+## About Page
+![About](DEMO/About.png "About page Screenshot")
+## Skills Page
+![Skills](DEMO/Skills.png "Skills page Screenshot")
+## Qualifications Page
+![Qualifications](DEMO/Qualifications.png "Qualifications page Screenshot")
+## Projects Page
+![Projects](DEMO/Projects.png "Projects page Screenshot")
+## Blog Page
+![Blog](DEMO/Blog.png "Blog page Screenshot")
+## Contact Page
+![Contact](DEMO/Contact.png "Contact page Screenshot")
 
 ## 📜 License
 
