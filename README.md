@@ -54,7 +54,7 @@ Found an issue or want to contribute?
 
 ## 🌟 Highlights
 
-![Project Example](assets/project1.png "Project Screenshot")
+![Home](DEMO/Home.png "Project Screenshot")
 
 ## 📜 License
 
