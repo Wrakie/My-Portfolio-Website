@@ -52,6 +52,10 @@ Found an issue or want to contribute?
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
+## 🌟 Highlights
+
+![Project Example](assets/project1.png "Project Screenshot")
+
 ## 📜 License
 
 This project is licensed under the MIT License. 📝
