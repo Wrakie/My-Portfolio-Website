@@ -21,6 +21,7 @@ This portfolio website is designed to:
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Tools**: Visual Studio Code, GitHub
 - **Version Control**: Git
+- **Hosting**: Firebase
 
 ## 🚧 How to Use
 
